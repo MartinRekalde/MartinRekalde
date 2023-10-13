@@ -1,3 +1,7 @@
+![Logo](https://github.com/MartinRekalde/MartinRekalde/blob/main/DSC_0340Recortado.JPG)
+
+
+
 <h1 align="center">Kaixo 👋, Martin Rekalde naiz 🦆</h1>
 
 ## 🚀 Nire buruz
