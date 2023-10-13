@@ -1,7 +1,6 @@
 <h1 align="center">Kaixo 👋, Martin Rekalde naiz 🦆</h1>
-<h3 align="center">42 Urdulizeko ikaslea</h3>
+<h3 align="center">42 Urdulizeko "Common core" proiektuak:</h3>
 
-`"Common core"-ko proiektuak:`
 <br>
 | [1 - 📚 libft](https://github.com/MartinRekalde/Libft) |
 |:--|
