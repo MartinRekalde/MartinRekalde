@@ -3,6 +3,7 @@
 
 `"Common core"-ko proiektuak:`
 <br>
-|📚 [libft](https://github.com/MartinRekalde/Libft)|
+|📚 [1 - libft](https://github.com/MartinRekalde/Libft)|
 <br>
-|🖨 [ft_printf](https://github.com/MartinRekalde/ft_printf)|
+|🖨 [2 - ft_printf](https://github.com/MartinRekalde/ft_printf)|
+
