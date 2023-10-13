@@ -11,5 +11,6 @@ Biltegi honetan 42 ikastolan egindako guztia aurkituko duzu eta behar bada gehia
 | [2 - 🖨 ft_printf](https://github.com/MartinRekalde/ft_printf) |
 |:--|
 <br>
+
 ## 🔗 Kontaktua
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-rekalde/)
