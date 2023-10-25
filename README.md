@@ -13,7 +13,6 @@ Biltegi honetan 42 ikastolan egindako guztia aurkituko duzu eta behar bada gehia
 |:--|
 
 | [2 - 🖨 ft_printf](https://github.com/MartinRekalde/ft_printf) |
-|:--|
 
 | [ft_printf_base](https://github.com/MartinRekalde/ft_printf_base) |
 |:--|
