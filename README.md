@@ -4,8 +4,10 @@
 
 ## 🚀 Nire buruz
 42 Urdulizeko ikaslea naiz eta sistemen administratzazioa eta zibersegurtasuna ikasi dut.
-Biltegi honetan 42 ikastolan egindako guztia aurkituko duzu eta behar bada gehiago.
 <br>
+
+## 🪐 42 Cursus
+Biltegi honetan 42 ikastolan egindako guztia aurkituko duzu eta behar bada gehiago.
 
 | [1 - 📚 libft](https://github.com/MartinRekalde/Libft) |
 |:--|
