@@ -1,4 +1,4 @@
-<h1 align="center">Kaixo 👋, Martin Rekalde naiz 🦆</h1>
+<h1 align="center">Kaixo, Martin Rekalde naiz 🦆</h1>
 
 ![Logo](https://github.com/MartinRekalde/MartinRekalde/blob/main/DSC_0340Recortado.JPG)
 
