@@ -1,8 +1,6 @@
-![Logo](https://github.com/MartinRekalde/MartinRekalde/blob/main/DSC_0340Recortado.JPG)
-
-
-
 <h1 align="center">Kaixo 👋, Martin Rekalde naiz 🦆</h1>
+
+![Logo](https://github.com/MartinRekalde/MartinRekalde/blob/main/DSC_0340Recortado.JPG)
 
 ## 🚀 Nire buruz
 42 Urdulizeko ikaslea naiz eta sistemen administratzazioa eta zibersegurtasuna ikasi dut.
