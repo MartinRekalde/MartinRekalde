@@ -14,7 +14,6 @@ Biltegi honetan 42 ikastolan egindako guztia aurkituko duzu eta behar bada gehia
 |:--|
 
 | 3 - 💻 **Born2beroot** Eginda baina ezer igo gabe, gida bat egiten saiatuko naiz |
-|:--|
 
 | [4 - 📄 Get Next Line](https://github.com/MartinRekalde/Get-Next-Line) |
 |:--|
